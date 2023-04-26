@@ -1,0 +1,11 @@
+{
+  "name": "reastreamtests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reastream.js",
+  "scripts": {
+    "start": "node reastream.js"
+  },
+  "author": "https://github.com/h3llo-wor1d",
+  "license": "ISC"
+}
